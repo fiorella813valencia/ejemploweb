@@ -1,0 +1,25 @@
+{
+  "artist": [
+    {
+      "id": 2,
+      "name": "figure Challenge",
+      "photo": "",
+      "favsport": "",
+      "points": 5
+    },
+    {
+      "name": "figure2 Challenge",
+      "photo": "",
+      "favsport": "",
+      "points":0,
+      "id": 3
+    },
+    {
+      "name": "figure2 Challenge",
+      "photo": "",
+      "favsport": "",
+      "points":0,
+      "id": 5
+    }
+  ]
+}
